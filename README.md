@@ -1,13 +1,24 @@
-![background_image](https://github.com/bashlui/bashlui/assets/134757904/1f294b13-be7e-4e4f-b70e-c7f339c43679)
+![Lui Background](https://github.com/bashlui/bashlui/assets/134757904/1f294b13-be7e-4e4f-b70e-c7f339c43679)
 
-<h1> <center> This is lui </center></h1>
-Here are some ideas to get you started:
+# <h1 align="center"> Hey there! 👋 I'm Lui </h1>
 
-Hello! My name is Luis Antonio, but you can call me Lui! Im currently a freshmen at Tecnológico de Monterrey university, 18 years old, in the of B.S. in Computer Science and Technology area (ITC). I hope to help a lot of people with my projects and have a bigger impact in the hole world.
+Greetings, fellow Earthling! 🌍 I'm Luis Antonio, aka Lui, a passionate soul navigating the realm of technology at Tecnológico de Monterrey University. I'm 18 years young, embarking on a journey through the cosmos of Computer Science and Technology (ITC).
 
-- 🌱 I’m currently learning about Machine Learning and DevOps
-- 👯 I’m looking to collaborate with big tech companys.
-- 💬 Ask me about my passion!
-- ⚡ Fun fact: i like a lot of music!
+## 🚀 Aspiring Explorer
 
-# Tools and languages.
+- 🌱 Currently orbiting around Machine Learning and DevOps
+- 👯 Seeking cosmic collaborations with big tech galaxies
+- 💬 Let's chat about the universe of my passions!
+- ⚡ Fun fact: My heartbeat syncs with the rhythm of music 🎶
+
+## 🛠️ Tools and Languages
+
+Hovering through the technoscape with:
+
+- Python 🐍
+- JavaScript 💻
+- Git & GitHub 🚀
+- VS Code 🌌
+
+Feel free to join me on this cosmic adventure! 🚀✨
+
