@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**bashlui/bashlui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+
+Hello! My name is Luis Antonio, but you can call me Lui! Im currently a freshmen at Tecnológico de Monterrey university, in the of B.S. in Computer Science and Technology area. Coding languages like Python, C++ and JavaScript. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
