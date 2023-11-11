@@ -8,7 +8,7 @@ I am Luis Antonio, known as Lui, a dedicated student pursuing a Bachelor's degre
 
 ## 🌱 Current Focus
 
-- 🚀 Exploring the disciplines of Machine Learning and DevOps
+- 🚀 Exploring the disciplines of Machine Learning
 - 👥 Open to collaborating on impactful projects with like-minded professionals
 - 💬 Feel free to initiate a conversation about my technical expertise and projects
 - ⚡ Fun fact: I find inspiration in both the precision of coding and the harmony of diverse musical genres 🎶
