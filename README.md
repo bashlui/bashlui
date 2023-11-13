@@ -27,4 +27,7 @@ Your interest and collaboration are highly appreciated. Let's connect and explor
 Best regards,
 Lui
 
+## ⚙️Languages and tools
+<img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" />
+
 
