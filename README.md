@@ -1,6 +1,6 @@
 ![Lui's Code Portfolio](https://github.com/bashlui/bashlui/assets/134757904/1f294b13-be7e-4e4f-b70e-c7f339c43679)
 
-# <h1 align="center"> Welcome to Lui's GitHub👨‍💻</h1>
+# <h1 align="center"> Welcome to Lui's GitHub 👨‍💻</h1>
 
 Dear visitors,
 
@@ -8,9 +8,8 @@ I am Luis Antonio, known as Lui, a dedicated student pursuing a Bachelor's degre
 
 ## 🌱 Current Focus
 
-- 🚀 Exploring the disciplines of Machine Learning
+- 🚀 Exploring the disciplines of Data Science, Machine Learning and D&A.
 - 👥 Open to collaborating on impactful projects with like-minded professionals
-- 💬 Feel free to initiate a conversation about my technical expertise and projects
 - ⚡ Fun fact: I find inspiration in both the precision of coding and the harmony of diverse musical genres 🎶
 
 ## 💼 Tools and Technologies
