@@ -11,4 +11,4 @@
   </a>
 </p>
 
-### I love music so, check out my [Spotify](https://open.spotify.com/user/luisbolaina210?si=4122235127344745)! 
+### I love music, check out my [Spotify](https://open.spotify.com/user/luisbolaina210?si=4122235127344745)! 
