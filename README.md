@@ -1,3 +1,4 @@
-![Lui's Code Portfolio](https://github.com/bashlui/bashlui/assets/134757904/1f294b13-be7e-4e4f-b70e-c7f339c43679)
+
+![Lui's Code Portfolio](https://64.media.tumblr.com/2c5d7360f8957c615772be568f85ba65/tumblr_nt23wyxU9r1udc81xo1_1280.pnj)
 
 # <h1 align="center"> Welcome to Lui's GitHub 👨‍💻</h1>
