@@ -3,7 +3,7 @@
   <img width="800" height="400" src="https://cdn.donmai.us/original/b8/02/b8027272774cf4a075e1112e4aec20b3.gif">
 </p>
 
-#### I'm currently a Computer Science student at Tecnológico de Monterrey university. Looking forward to collaborate with lots of people and help in any project of interest!
+### I'm currently a Computer Science student at Tecnológico de Monterrey university. Looking forward to collaborate with lots of people and help in any project of interest!
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
