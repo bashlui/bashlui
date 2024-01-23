@@ -1,6 +1,6 @@
 
-<h3 align="center"><img align="right" height="300" src="https://24.media.tumblr.com/a9741dfcd7a1db4811994482fa018c09/tumblr_mm93xfMsdv1rxq1z0o1_500.gif"> Currently a Computer Science student at Tecnológico de Monterrey. <img height="90" src="https://media.tenor.com/lKiSQQGszwYAAAAj/creucat-creu.gif"> </h3>
-
+<h3 align="center"><img align="right" height="300" src="https://24.media.tumblr.com/a9741dfcd7a1db4811994482fa018c09/tumblr_mm93xfMsdv1rxq1z0o1_500.gif"> Currently a Computer Science student at Tecnológico de Monterrey. </h3>
+<img align="center" height="80" src="https://media.tenor.com/lKiSQQGszwYAAAAj/creucat-creu.gif">
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
