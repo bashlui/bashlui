@@ -12,5 +12,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashlui&size_weight=0.5&count_weight=0.5&theme=material-palenight&title_color=ffffff&hide=html,scss,shell">
   </a>
 </p>
-
+<p align="center">
+  <img src="https://media.tenor.com/dfvRZxql4eMAAAAi/dance-cat.gif" height="200">
+</p>
 
