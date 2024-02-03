@@ -4,7 +4,7 @@
 <h3 align="center"><img align="right" height="550" src="https://i.pinimg.com/originals/a1/0f/19/a10f19777ef27b03f949b3698cdf5259.gif"> Currently a Computer Science student at Tecnológico de Monterrey. </h3>
 
 <h4 align="center">
-  I'm focusing on Front-End development, solving problem skills and Data Science.
+  I'm focusing on Data Science, Front-End development and trying to be competitive programming!
 </h4>
 
 <p align="center">
