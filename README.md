@@ -13,6 +13,6 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://media.tenor.com/dfvRZxql4eMAAAAi/dance-cat.gif" height="200">
+  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" height="200">
 </p>
 
