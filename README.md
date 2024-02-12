@@ -12,7 +12,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashlui&size_weight=0.5&count_weight=0.5&theme=material-palenight&title_color=ffffff&hide=html,scss,shell&layout=compact">
   </a>
 </p>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" height="200">
-</p>
+
 
