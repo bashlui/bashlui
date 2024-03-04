@@ -1,4 +1,4 @@
-<h1 align="center">I'ts Toño</h1>
+<h1 align="center">It's Toño</h1>
 
 
 <h3 align="center"> Currently a Computer Science student at Tecnológico de Monterrey. </h3>
