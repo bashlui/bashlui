@@ -4,7 +4,7 @@
 <h3 align="center"> Currently a Computer Science student at Tecnológico de Monterrey. </h3>
 
 <h4 align="center">
-  I'm focusing on Machine Learning - Data Science field and solving problem skills.
+  I'm focusing on AI technologies and some Machine Learning.
 </h4>
 
 <p align="center">
