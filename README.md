@@ -4,7 +4,7 @@
 <h3 align="left"> Currently a Computer Science student at Tecnológico de Monterrey. </h3>
 
 <h4 align="left">
-  I'm focusing on AI technologies and some Machine Learning.
+  Looking forward to the AI technologies and explore the tech industry
 </h4>
 
 <p align="left">
