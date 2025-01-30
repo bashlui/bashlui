@@ -1,5 +1,5 @@
 
-```dev / student at Tecnológico de Monterrey focused on full-stack and learn some ai```
+```dev / c.s. student at Tecnológico de Monterrey focused on full-stack and fun stuff```
             ```:)```
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
