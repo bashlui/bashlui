@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/08/f4/4e/08f44ee35174c455eec7caacf5bbcfb1.gif" width="500" height="200">
-</p>
-
-<p align="center">
          c.s. student @ tecnológico de monterrey | full-stack dev in progress
 </p>
 
