@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-         c.s. student @ tecnológico de monterrey | full-stack dev in progress
+         c.s. student @ tecnológico de monterrey 
 </p>
 
             
