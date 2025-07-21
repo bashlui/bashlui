@@ -10,7 +10,7 @@
       <img width="300" height="300" alt="Octocat" src="https://github.com/user-attachments/assets/a4a5d111-d375-4843-9585-1e080c878221" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashlui&hide=html,css&layout=compact" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashlui&hide=html,css&layout=donut-vertical" alt="Top Langs" />
     </td>
   </tr>
 </table>
