@@ -1,5 +1,5 @@
 <p align="center">
-         hey! this is `antonio`, i'm a computer science student @ `ITESM` 
+         hey! this is antonio, i'm a computer science student @ ITESM 
          <p align="center">you can check out more about me on my <a href="https://ntonio.vercel.app">web</a> :) </p>
 </p>
 
