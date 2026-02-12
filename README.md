@@ -1,9 +1,11 @@
-<p align="center">
-         hey! this is antonio, i'm a computer science student @ ITESM 
-         <p align="center">you can check out more about me on my <a href="https://ntonio.vercel.app">web</a> :) </p>
-</p>
+# hey! i'm antonio
 
-<p align="center">
-         <img width="600" height="110" alt="image" src="https://github.com/user-attachments/assets/3e54f2c1-cce9-4b9e-a563-ab4add4ca256" />
-</p>
+computer science student @ itesm focused on `full-stack development` and `mobile development`, planning `ai/ml research` in the future.
 
+## i'm part of
+- `@SwiftTec`: collaborating in the development of a mobile application as part of a development team, being an ios developer.
+- `@SEITC`: collaborating as a coordinator in the IT team, responsible of developing technology projects collaborating with my teammates.
+  
+## connect
+`feel free to reach out!`
+[website](https://ntonio.vercel.app) | [linkedin](https://linkedin.com/in/luisbolaina)
