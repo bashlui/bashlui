@@ -4,6 +4,6 @@
 </p>
 
 <p align="center">
- <img width="600" height="364" alt="image" src="https://github.com/user-attachments/assets/f49d3880-204b-4e67-890a-bb3d8db064e1" />
+         <img width="600" height="110" alt="image" src="https://github.com/user-attachments/assets/3e54f2c1-cce9-4b9e-a563-ab4add4ca256" />
 </p>
 
