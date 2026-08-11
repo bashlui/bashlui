@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/8daf58bf-ff33-4960-974e-239fce63ffd3" />
+</p>
+
 # hey! i'm antonio
 
 computer science student @ itesm focused on `full-stack development` and `mobile development`, planning `ai/ml research` in the future.
